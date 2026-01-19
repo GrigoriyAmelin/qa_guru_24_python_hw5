@@ -1,7 +1,6 @@
 import os
 
 from selene import browser as br, by, be, have
-from selenium.webdriver.support.expected_conditions import element_to_be_selected
 
 
 def test_practice_form_filling_up():
